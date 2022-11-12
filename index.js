@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
-
-const { fstat } = require("fs");
-const { default: inquirer } = require("inquirer");
+const inquirer = require('inquirer');
+const fs = require('fs');
+const generateMarkdown = require('./src/generateMarkdown.js')
 
 // TODO: Create an array of questions for user input
 const questions = [
