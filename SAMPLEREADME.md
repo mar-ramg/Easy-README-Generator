@@ -15,10 +15,10 @@
   Quickly and easily create a README file
 
   ## Installation:
-  through github
+  install it by running npm init in the terminal
 
   ## Usage:
-  given a command-line application...
+  given a command-line application ...
 
   ## License:
   undefined
@@ -31,4 +31,4 @@
 
   ## Additional Info:
   - Github: [mar-ramg](https://github.com/mar-ramg)
-  - Email: no 
+  - Email: NO
